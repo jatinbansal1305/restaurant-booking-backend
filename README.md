@@ -9,3 +9,7 @@ The Restaurant Booking System is a web application that allows users to search f
 - Restaurant owner registration and management of time slots.
 - Dynamic listing of cuisines and tables during registration.
 
+## Potential Future Enhancements
+
+- Decorator Pattern for Searching: Implement the decorator pattern to enhance the restaurant search functionality, allowing users to search based on different attributes such as cuisine type, price range, and ratings dynamically
+
